@@ -11,10 +11,10 @@ import sys
 from urllib.parse import urlparse
 from urllib.parse import parse_qs
 
-PROXY_HOST = 'pr.oxylabs.io'  # rotating proxy or host
-PROXY_PORT = 7777  # port
-PROXY_USER = 'glennalgodriven'  # username
-PROXY_PASS = 'FQDJbXft2N'  # password
+PROXY_HOST = ''  # rotating proxy or host
+PROXY_PORT = ''  # port
+PROXY_USER = ''  # username
+PROXY_PASS = ''  # password
 time_interval_arr = ["seconds", "second", "hours", "hour", "minutes", "minute"]
 
 
